@@ -1,4 +1,4 @@
-Ein kleines README, das beschreibt wie Projekte in Eclips importiert werden.
+Ein kleines README, das beschreibt wie Projekte in Eclipse importiert werden.
 
 1. Oben im Menübar auf:
    File->Open Projekts from File System...
