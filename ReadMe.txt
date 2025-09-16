@@ -1,16 +1,16 @@
-Ein kleines README, das beschreibt wie Projekte in Eclipse importiert werden.
+# Java Projekt in Eclipse importieren
 
-1. Oben im Menübar auf:
-   File->Open Projekts from File System...
-   drücken
+** 1. Projekt suche öffnen **
+   Klicke oben im Menü auf
+   `File->Open Projects from File System...`
 
-2. Dann sollte sich ein Fenster öffnen.
-   Dort auf den Button "Directory..." drücken und bis zum Verzeichnis navigieren,
-   wo sich der "src" Ordner befindet.
+** 2. Verzeichnis wählen **
+   Im geöffneten Fenster auf  `Directory...` klicken und das Verzeichnis
+   auswählen, das den `src` Ordner enthält.
+   
 
-3. Dann Verzeichnis auswählen und im Fenster auf Finish drücken.
-
-Dann sollte das Projekt importiert und direkt ausführbar sein.
+** 3. Projekt importieren **
+Klicke auf Finish und das Projekt sollte direkt ausführbar sein
 
 Viel Erfolg
    
