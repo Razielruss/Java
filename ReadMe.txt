@@ -1,4 +1,4 @@
-# Java Projekt in Eclipse importieren
+#Java Projekt in Eclipse importieren
 
 ** 1. Projekt suche öffnen **
    Klicke oben im Menü auf
