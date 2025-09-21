@@ -1,6 +1,6 @@
 # Projekt: Fibonacci-Folge
 
-## Information zur Anwendung
+## Informationen zum Projekt
 In diesem Projekt wird mit statischen Listen und Schleifen die  
 Fibonacci Folge, in der Konsole, ausgegeben.
 
