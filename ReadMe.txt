@@ -1,8 +1,9 @@
-# Projekt: Fibonacci-Folge
+# Projekt: Datentypen und Variablen
 
 ## Information zur Anwendung
-Eine Übersicht, welche primitiven Datentypen existieren  
-und Funktionieren. Ansonsten nichts relevantes.
+Eine Übersicht, wie Variablen deklariert und initialisiert  
+werden. Dabei werden alle primitiven Datentypen und die  
+Klasse String aufgezeigt.
 
 
 ## Java Projekt importieren
