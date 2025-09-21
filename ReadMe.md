@@ -1,10 +1,10 @@
 # Projekt: Fibonacci-Folge
 
-## ℹ Information zur Anwendung
-In diesem Projekt wird mit statischen Listen und Schleifen die 
+## Information zur Anwendung
+In diesem Projekt wird mit statischen Listen und Schleifen die  
 Fibonacci Folge, in der Konsole, ausgegeben.
 
-## Importieren eines Java Projekts
+## Java Projekt importieren
 **1. Projekt Suche öffnen**  
    Klicke oben im Menü auf 
    `File->Open Projects from File System...` 
