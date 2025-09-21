@@ -1,6 +1,6 @@
 # Projekt: Datentypen und Variablen
 
-## Information zur Anwendung
+## Information zum Projekt
 Eine Übersicht, wie Variablen deklariert und initialisiert  
 werden. Dabei werden alle primitiven Datentypen und die  
 Klasse String aufgezeigt.
