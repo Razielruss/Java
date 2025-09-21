@@ -1,16 +1,23 @@
-# Java Projekt in Eclipse importieren 
+# Projekt: Fibonacci-Folge
 
-**1. Projekt suche öffnen**  
+## Information zur Anwendung
+In diesem Projekt wird mit statischen Listen und Schleifen die 
+Fibonacci Folge, in der Konsole, ausgegeben.
+
+## Importieren eines Java Projekts
+**1. Projekt Suche öffnen**  
    Klicke oben im Menü auf 
    `File->Open Projects from File System...` 
 
 **2. Verzeichnis wählen**   
-   Im geöffneten Fenster auf  `Directory...` klicken und das Verzeichnis 
+   Im geöffneten Fenster auf  `Directory...` klicken und das Projektverzeichnis 
    auswählen, das den `src` Ordner enthält. 
    
 
 **3. Projekt importieren**   
   Klicke auf Finish und das Projekt sollte direkt ausführbar sein 
 
-Viel Erfolg 
+
+ ## Link zum Tutorial:
+[YouTube-Video anschauen](https://www.youtube.com/watch?v=ArCAHovwljU)
    
