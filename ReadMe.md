@@ -2,8 +2,8 @@
 
 ## Informationen zum Projekt
 Im Programm wird der Notendurchschnitt berechnet, mit
-Noten die in einer Liste gespeichert werden.
----
+Noten die in einer Liste gespeichert werden.  
+
 Für ein besseres Verständnis, wird im Video darauf
 eingegangen, wie die Noten im Speicher verwaltet werden.
 
