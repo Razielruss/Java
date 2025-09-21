@@ -19,5 +19,5 @@ Fibonacci Folge, in der Konsole, ausgegeben.
 
 
  ## Link zum Tutorial:
-[Link zum Tutorial](https://www.youtube.com/watch?v=ArCAHovwljU)
+[Click me](https://www.youtube.com/watch?v=ArCAHovwljU)
    
