@@ -11,7 +11,7 @@ Drücke auf die Windowstaste und gebe ein `cmd` oder `shell` ein
 und starte das Programm.
 
 **2. Navigation zur .jar Datei**
-Mit `cd` kannst du über der Konsole das Verzeichnis wechseln.
+Mit `cd` kannst du über der Konsole das Verzeichnis wechseln.  
 Dabei sind folgende Befehle wichtig:
 
 ```bash
@@ -26,11 +26,15 @@ cd /d e:\
 ```
 
  **3. sumNubers.jar ausführen**
-Gebe in der Konsole folgendes ein
+Gebe in der Konsole folgendes ein  
+```
 `java -jar sumNumbers.jar`
-Anschließend kannst du beliebige Zahlen eingeben.
-Beispiel: `java -jar sumNumbers.jar 1 2 3 4`
-
+```
+Anschließend kannst du beliebige Zahlen eingeben.  
+Beispiel:  
+```
+`java -jar sumNumbers.jar 1 2 3 4`
+```
 ## Java Projekt importieren
 **1. Projekt Suche öffnen**  
    Klicke oben im Menü auf 
