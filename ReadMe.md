@@ -25,7 +25,7 @@ cd ..
 cd /d e:\
 ```
 
- **3. sumNubers.jar ausführen**
+ **3. sumNubers.jar ausführen**  
 Gebe in der Konsole folgendes ein  
 ```
 `java -jar sumNumbers.jar`
