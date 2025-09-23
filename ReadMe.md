@@ -4,14 +4,10 @@
 In diesem Projekt wurde eine praxisnahe  
 **Konsolenanwendung** programmiert.  
 
-- Mit `if else` wurde ein Konstrukt programmiert worüber  
-  ein Help (`-h`) oder eine Versionsnummer (`-v`)
-  aufgerufen werden kann.
-- Es kann eine Zahl eingegeben werden, dass  
-  anschließend überprüft wird, ob es sich um eine **Primzahl** handelt.  
+- Mit `if else` wurde ein Konstrukt programmiert worüber ein Help (`-h`) oder eine Versionsnummer (`-v`) aufgerufen werden kann.
+- Es kann eine Zahl eingegeben werden, dass anschließend überprüft wird, ob es sich um eine **Primzahl** handelt.  
 
-Zum ausprobieren wurde die `checkPrime.jar` Datei in diesem   
-Projekt hinterlegt.
+Zum ausprobieren wurde die `checkPrime.jar` Datei in diesem Projekt hinterlegt.
 
 ## Ausführung der checkPrime.jar Datei
 **1. Öffnen der Konsole/Shell**
