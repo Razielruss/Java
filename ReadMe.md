@@ -1,4 +1,4 @@
-# Projekt: Primzahlen Checker
+# Projekt: Primzahl Checker
 
 ## Informationen zum Projekt
 In diesem Projekt wurde eine praxisnahe  
