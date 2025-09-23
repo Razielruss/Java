@@ -28,12 +28,12 @@ cd /d e:\
  **3. sumNubers.jar ausführen**  
 Gebe in der Konsole folgendes ein  
 ```
-`java -jar sumNumbers.jar`
+java -jar sumNumbers.jar
 ```
 Anschließend kannst du beliebige Zahlen eingeben.  
 Beispiel:  
 ```
-`java -jar sumNumbers.jar 1 2 3 4`
+java -jar sumNumbers.jar 1 2 3 4
 ```
 ## Java Projekt importieren
 **1. Projekt Suche öffnen**  
