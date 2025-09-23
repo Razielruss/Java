@@ -4,9 +4,9 @@
 In diesem Projekt wurde eine praxisnahe  
 **Konsolenanwendung** programmiert.  
 
-- Mit `if else` wurde ein Konstrukt programmiert worüber
-  ein Help (`-h`) oder eine Versionsnummer (`-v`)aufgerufen werden  
-  kann.
+- Mit `if else` wurde ein Konstrukt programmiert worüber  
+  ein Help (`-h`) oder eine Versionsnummer (`-v`)
+  aufgerufen werden kann.
 - Es kann eine Zahl eingegeben werden, dass  
   anschließend überprüft wird, ob es sich um eine **Primzahl** handelt.  
 
