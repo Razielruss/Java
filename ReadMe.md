@@ -1,4 +1,4 @@
-# Projekt: Fibonacci-Folge
+# Projekt: Addierer als Konsolanwendung
 
 ## Informationen zum Projekt
 In diesem Projekt geht es um eine Konsolanwendung  
