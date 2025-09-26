@@ -1,12 +1,12 @@
-# Willkommen in meiner Repositorie
+# Willkommen in meiner Repository
 
 ## Information
-Du bist in der `main branch`. Das bedeutet hier findest du alle Projekte  
+Du bist in der `main branch`. Das bedeutet hier findest du alle Projekte,  
 die ich bisher in den Tutorials gemacht habe. Hier kannst du dir alle Herunterladen
 und sie in deine `IDE` wie Ecplise importieren.  
   
 Wenn du die Projekte einzeln herunterladen möchtest, dann musst du zur jeweiligen branch wechseln
-und das Projekt herunterladen. Wenn du wissen willst wie das genau funktioniert, dann clicke unten
+und das Projekt herunterladen. Wenn du wissen willst wie das genau funktioniert, dann klicke unten
 auf das Tutorial.
 
 ## Projektliste 
@@ -19,19 +19,19 @@ auf das Tutorial.
   [Link zum Tutorial](https://www.youtube.com/watch?v=WgOTTfei0z8)
 
 - Tutorial 4: Schleifen und statische Listen ||
-  Mit der Formal der Fibonacci Folge werden folgeglieder in der statischen Liste gespeichert und ausgegeben.
+  Mit der Formal der Fibonacci Folge werden Folgeglieder in der statischen Liste gespeichert und ausgegeben.
   [Link zum Tutorial](https://www.youtube.com/watch?v=ArCAHovwljU)
 
 - Tutorial 5: String[] args:
-  Hier wird erklärt was das `String[] args` in der `main` Funktion bedeutet und eine `.jar` Datei erstellt, um es zu demonstrieren
+  Hier wird erklärt, was das `String[] args` in der `main` Funktion bedeutet und eine `.jar` Datei erstellt, um es zu demonstrieren
   [Link zum Tutorial](https://www.youtube.com/watch?v=4jYovPKBg5U)
 
 - Tutorial 6:If else mit Primzahlen
-  Hier wird eine praxisnahe Konsolanwendung Programmiert, die überprüft, ob die Zahl die übergeben wird eine Primzahl ist. Um die Anwendung zu programmieren, wird if else erklärt und eingesetzt.
+  Hier wird eine praxisnahe Konsolanwendung programmiert, die überprüft, ob die Zahl die übergeben wird, eine Primzahl ist. Um die Anwendung zu programmieren, wird if else erklärt und eingesetzt.
   [Link zum Tutorial](https://www.youtube.com/watch?v=ap7gx9miEg0)
 
 - Tutorial 7: Algorithmen und Operatoren
-  In diesem Tutorial werden Würfelwürfe aus zwei würfeln simuliert und deren Wahrscheinlichkeit bestimmt. Die Anwendung wird 2x programmiert wobei beim 2. mal nur Operatoren verwendet werden.  
+  In diesem Tutorial werden Würfelwürfe aus zwei Würfeln simuliert und deren Wahrscheinlichkeit bestimmt. Die Anwendung wird 2x programmiert, wobei beim 2. mal nur Operatoren verwendet werden.  
   [Link zum Tutorial](https://www.youtube.com/watch?v=mg_4he2Gu3U)
 
 ## Java Projekt importieren
