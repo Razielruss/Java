@@ -6,8 +6,8 @@ die ich bisher in den Tutorials gemacht habe. Hier kannst du dir alle Herunterla
 und sie in deine `IDE` wie Ecplise importieren.  
   
 Wenn du die Projekte einzeln herunterladen möchtest, dann musst du zur jeweiligen branch wechseln
-und das Projekt herunterladen. Wenn du wissen willst wie das genau funktioniert, dann klicke unten
-auf das Tutorial.
+und das Projekt herunterladen. Wenn du wissen willst wie das genau funktioniert, dann klicke das Video.  
+ [Link zum github Video](https://www.youtube.com/watch?v=mg_4he2Gu3U)
 
 ## Projektliste 
 - Tutorial 2: Datentypen und Variablen  
