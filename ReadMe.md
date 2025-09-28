@@ -29,7 +29,7 @@ cd /d e:\
 
  **3. sumNubers.jar ausführen**  
 
-Gebe in der Konsole folgendes ein  
+Gib in die Konsole Folgendes ein  
 ```
 java -jar sumNumbers.jar
 ```
