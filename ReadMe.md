@@ -7,10 +7,12 @@ Datei, um diese Anwendung in der Konsole auszuführen.
 
 ## Ausführung der sumNubers.jar Datei
 **1. Öffnen der Konsole/Shell**
+
 Drücke auf die Windowstaste und gebe ein `cmd` oder `shell` ein
 und starte das Programm.
 
 **2. Navigation zur .jar Datei**
+
 Mit `cd` kannst du über der Konsole das Verzeichnis wechseln.  
 Dabei sind folgende Befehle wichtig:
 
