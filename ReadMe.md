@@ -1,9 +1,9 @@
 # Projekt: Wahrscheinlichkeit von 2 Würfeln
 
 ## Informationen zum Projekt
-In diesem Projekt wird ein Wurf mit 2 würfeln simuliert und die Wahrscheinlichkeit  
+In diesem Projekt wird ein Wurf mit 2 Würfeln simuliert und die Wahrscheinlichkeit  
 bestimmt, verschiedene Würfelpaare zu werfen. Das Ganze wurde 2x programmiert,
-wobei beim 2. mal nur Operatoren wie arithmetische Operatoren verwendet wurden.
+wobei beim 2. Mal arithmetische und Zuweisungsoperatoren verwendet wurden.
 
 ## Java Projekt importieren
 **1. Projekt Suche öffnen**  
