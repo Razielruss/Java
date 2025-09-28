@@ -5,17 +5,17 @@ In diesem Projekt wurde eine praxisnahe
 **Konsolenanwendung** programmiert.  
 
 - Mit `if else` wurde ein Konstrukt programmiert worüber ein Help (`-h`) oder eine Versionsnummer (`-v`) aufgerufen werden kann.
-- Mit (`-p <number>`) kann irgend eine Zahl eingegeben werden, dass überprüft wird, ob es sich um eine Primzahl handelt.   
+- Mit (`-p <number>`) kann irgendeine Zahl eingegeben werden, bei der überprüft wird, ob es sich dabei um eine Primzahl handelt.   
 
-Zum ausprobieren wurde die `checkPrime.jar` Datei in diesem Projekt hinterlegt.
+Zum Ausprobieren wurde die `checkPrime.jar` Datei in diesem Projekt hinterlegt.
 
 ## Ausführung der checkPrime.jar Datei
 **1. Öffnen der Konsole/Shell**
-Drücke auf die Windowstaste und gebe ein `cmd` oder `shell` ein
+Drücke auf die Windowstaste und gib `cmd` oder `shell` ein
 und starte das Programm.
 
 **2. Navigation zur .jar Datei**
-Mit `cd` kannst du über der Konsole das Verzeichnis wechseln.  
+Mit `cd` kannst du über die Konsole das Verzeichnis wechseln.  
 Dabei sind folgende Befehle wichtig:
 
 ```bash
@@ -30,7 +30,7 @@ cd /d e:\
 ```
 
  **3. checkPrime.jar ausführen**  
-Gebe in der Konsole folgendes ein  
+Gib in der Konsole Folgendes ein  
 ```
 java -jar checkPrime.jar
 ```
