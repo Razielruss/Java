@@ -38,6 +38,10 @@ und das Projekt herunterladen. Wenn du wissen willst wie das genau funktioniert,
   In diesem Tutorial wird eine `void Methode` in einer `utils Klasse` programmiert, die praxisnahe Logausgaben ausgibt.  
   [Link zum Tutorial](https://www.youtube.com/watch?v=ArYaxQP1iuo)
 
+  - Tutorial 9: Methode in einer utils Klasse II  
+  In diesem Tutorial wird eine `Methode` mit einem `String als Rückgabe` in einer `utils Klasse` programmiert. Die Methode konvertiert eine Zahl in ein `String` aus Bits.   
+  [Link zum Tutorial](https://youtu.be/oTPDJg6oqGs)
+
 ## Java Projekt importieren
 **1. Projekt Suche öffnen**  
    Klicke oben im Menü auf 
