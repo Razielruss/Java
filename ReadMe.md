@@ -1,9 +1,11 @@
-# Projekt: Zahl in Bits umwandeln
+# Projekt: Modellklasse 1
 
 ## Informationen zum Projekt
-In diesem Projekt geht es darum, eine Zahl in Bits umzuwandeln. Dafür wird ein `utils Package`  
-mit einer `utils Klasse` erstellt. Dort wird eine `Methode` mit einem `String als Rückgabe` implementiert, die  
-die Bits aus einer Zahl ausgibt. Dabei wird erklärt welche Bitoperatoren benötigt und eingesetzt werden.   
+In der `Repository` wurden 2 Projekte hinterlegt.  
+1. Java Projekt in der die Basics eine `Modellklasse` implementiert sind (Attribute, Konstruktor...)
+2. Java `Spring Boot` Anwendung die das Minimum hat, um zu zeigen wie solch eine Anwendung in der Arbeitswelt funktioniert.
+    Sie wird aber nicht ohne eine Datenbank verbindung funktionieren. Damit die Anwendung funktioniertt, muss die Datenbank
+    `Postgres` installiert werden und der `ConnectionString` angepasst werden.
 
 ## Java Projekt importieren
 **1. Projekt Suche öffnen**  
@@ -20,5 +22,5 @@ die Bits aus einer Zahl ausgibt. Dabei wird erklärt welche Bitoperatoren benöt
 
 
  ## Link zum Tutorial:
-[Click me](https://youtu.be/oTPDJg6oqGs)
+[Click me](https://youtu.be/wzhzvOV0x6c)
    
