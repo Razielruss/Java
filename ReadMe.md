@@ -1,4 +1,4 @@
-# Projekt: Modellklasse 1
+# Projekt: Modellklasse 2
 
 ## Informationen zum Projekt
 In diesem Tutorial wird erklärt, was eine `ArrayList` ist und welche Funktionen sie hat. Dabei wird anhand eines  
