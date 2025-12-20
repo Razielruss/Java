@@ -38,9 +38,19 @@ und das Projekt herunterladen. Wenn du wissen willst wie das genau funktioniert,
   In diesem Tutorial wird eine `void Methode` in einer `utils Klasse` programmiert, die praxisnahe Logausgaben ausgibt.  
   [Link zum Tutorial](https://www.youtube.com/watch?v=ArYaxQP1iuo)
 
-  - Tutorial 9: Methode in einer utils Klasse II  
+- Tutorial 9: Methode in einer utils Klasse II  
   In diesem Tutorial wird eine `Methode` mit einem `String als Rückgabe` in einer `utils Klasse` programmiert. Die Methode konvertiert eine Zahl in ein `String` aus Bits.   
   [Link zum Tutorial](https://youtu.be/oTPDJg6oqGs)
+
+- Tutorial 10: Modellklasse I
+  In diesem Tutorial wird erklärt, was eine `Modellklasse` ist und wie ein `Attribut`, `Konstruktor`, `Getter` und `Setter` definiert werden. Dabei zeige ich ein Praxisbeispiel, wo solche  
+  Klassen eingesetzt werden und wie sowas in einer echten mit der Datenbank umgesetzt wird.   
+  [Link zum Tutorial](https://youtu.be/wzhzvOV0x6c)
+
+- Tutorial 11: Modellklasse II 
+  In diesem Tutorial wird erklärt, was eine `ArrayListe` ist und wie sie eingesetzt wird. Dabei wird eine Beziehung zwischen zwei Modellklassen hergestellt und die  
+  Funktionalitäten einer `ArrayListe` vorgestellt.
+  [Link zum Tutorial](https://youtu.be/rUdJYtngMPE)
 
 ## Java Projekt importieren
 **1. Projekt Suche öffnen**  
